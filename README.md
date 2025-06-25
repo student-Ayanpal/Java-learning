@@ -4,7 +4,7 @@ Welcome to my **Java Learning Journey**! 🚀
 This repository documents my step-by-step progress in learning Java — from the basics to object-oriented programming, collections, file handling, and real-world mini projects. The code is structured and beginner-friendly.
 
 ---
-
+```
 ## 📂 Repository Structure
 
 java-learning/
@@ -17,7 +17,7 @@ java-learning/
 ├── README.md # Repository overview (this file)
 └── .gitignore # To exclude unwanted files from Git
 
-
+```
 ---
 
 ## ✅ Topics Covered
