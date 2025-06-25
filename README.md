@@ -58,7 +58,11 @@ I started this repo to:
 ------------------------------------------------------------------------
 |      Date     |                   What I Did                          |
 |---------------|-------------------------------------------------------|
-| June 25, 2025 | 
+| June 25, 2025 |    docs: Learned OOP concepts – Class, Object,        |
+|               |    Encapsulation, Access Modifiers,                   |
+|               |     Procedural vs OOP                                 |
+-------------------------------------------------------------------------
+
 
 
 > *(I will update this regularly to reflect my progress.)*
